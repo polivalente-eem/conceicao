@@ -23,7 +23,7 @@ if (titulo) titulo.textContent = nomes[ano] || nomes["1"];
 const links = {
   "1": {
     "matematica": "https://drive.google.com/drive/folders/1EnrZvKC2XUwyR3Mh-9kJvDGFZvuVbUYT?usp=drive_link",
-    "quimica": "https://drive.google.com/drive/u/0/folders/1o26Y59Ya85F-v3t-XKJHugMPIGNjNKn-",
+    "quimica": "https://drive.google.com/drive/u/0/folders/1JI9vRJm1REjv_-12qA4H54NZlIvJ-ZtQ",
     "biologia": "#",
     "portugues": "#",
     "geografia": "#",
@@ -37,7 +37,7 @@ const links = {
   },
   "2": {
     "matematica": "https://drive.google.com/drive/folders/14wuCOpYBZgV1vBGtYH3W26DDXXMu8bsZ?usp=drive_link",
-    "quimica": "https://drive.google.com/drive/u/0/folders/1o26Y59Ya85F-v3t-XKJHugMPIGNjNKn-",
+    "quimica": "https://drive.google.com/drive/u/0/folders/10kmzO9UV-nyWrFSdfpOZwtpXKdFStu3f",
     "biologia": "#",
     "portugues": "#",
     "geografia": "#",
@@ -51,7 +51,7 @@ const links = {
   },
   "3": {
     "matematica": "https://drive.google.com/drive/u/0/folders/1x5j3JfLJ0esE5q6OVw26SqtH5v4nuiro",
-    "quimica": "https://drive.google.com/drive/u/0/folders/1o26Y59Ya85F-v3t-XKJHugMPIGNjNKn-",
+    "quimica": "https://drive.google.com/drive/u/0/folders/122_6w9i_6sBA_tQn1rFra0n7eGFdjILc",
     "biologia": "#",
     "portugues": "#",
     "geografia": "#",
