@@ -22,8 +22,8 @@ if (titulo) titulo.textContent = nomes[ano] || nomes["1"];
 
 const links = {
   "1": {
-    "matematica": "#",
-    "quimica": "#",
+    "matematica": "https://drive.google.com/drive/folders/1EnrZvKC2XUwyR3Mh-9kJvDGFZvuVbUYT?usp=drive_link",
+    "quimica": "https://drive.google.com/drive/u/0/folders/1o26Y59Ya85F-v3t-XKJHugMPIGNjNKn-",
     "biologia": "#",
     "portugues": "#",
     "geografia": "#",
@@ -36,8 +36,8 @@ const links = {
     "educacao-fisica": "#"
   },
   "2": {
-    "matematica": "#",
-    "quimica": "#",
+    "matematica": "https://drive.google.com/drive/folders/14wuCOpYBZgV1vBGtYH3W26DDXXMu8bsZ?usp=drive_link",
+    "quimica": "https://drive.google.com/drive/u/0/folders/1o26Y59Ya85F-v3t-XKJHugMPIGNjNKn-",
     "biologia": "#",
     "portugues": "#",
     "geografia": "#",
@@ -50,8 +50,8 @@ const links = {
     "educacao-fisica": "#"
   },
   "3": {
-    "matematica": "#",
-    "quimica": "#",
+    "matematica": "https://drive.google.com/drive/u/0/folders/1x5j3JfLJ0esE5q6OVw26SqtH5v4nuiro",
+    "quimica": "https://drive.google.com/drive/u/0/folders/1o26Y59Ya85F-v3t-XKJHugMPIGNjNKn-",
     "biologia": "#",
     "portugues": "#",
     "geografia": "#",
